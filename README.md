@@ -9,6 +9,9 @@ Todas aulas do curso Programador Web (extra Março) - Turma 2025A da IFRS
 
 
 
+<h2 align="center"> :pushpin: HTML :pushpin:<br></h2>
+<br>
+
 Certificado:  Em andamento<br>
  
 
